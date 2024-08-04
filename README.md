@@ -9,8 +9,10 @@
 # Objetivos del Proyecto
 - **Diseño y Construcción:** Crear un robot capaz de seguir líneas a alta velocidad utilizando sensores y actuadores de precisión.
 - **Programación:**  Desarrollar el software necesario para el control del robot, incluyendo algoritmos de seguimiento de línea, control de motores y optimización de la velocidad.
-
 - **Competencias:** Participar en competencias locales y nacionales de robots velocistas, representando al club de robótica.
+
+![Robot Velocista en acción](./media/gifHermes7.gif)![Robot Velocista en acción](./media/8e4f040c-3f21-4e38-b2d3-e119b3dd5bd7-removebg-preview.png)
+
   
 ## Guía de Estilo de Código
 ### Legibilidad: Escribe código claro y bien documentado.
