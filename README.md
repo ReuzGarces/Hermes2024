@@ -3,8 +3,8 @@
 
 ## Robot HERMES
 ### Descripción del Proyecto
-- **Este repositorio contiene todos los recursos, código y documentación necesarios para el desarrollo de robots velocistas dentro del Club de Robótica. El objetivo del proyecto es diseñar y construir robots que puedan seguir líneas a alta velocidad y competir en carreras de robots velocistas.** 
-
+- **Este repositorio contiene todos los recursos, código y documentación necesarios para el desarrollo de robots velocistas dentro del Club de Robótica. El objetivo del proyecto es diseñar y construir robots que puedan seguir líneas a alta velocidad y competir en carreras de robots velocistas.**
+- Visita [Presentaciones](https://drive.google.com/drive/folders/1hH_fFss6OaXW20hmF5XE_KbYsOgjXrHw?usp=sharing) para más información de las clases.
 # Objetivos del Proyecto
 - **Diseño y Construcción:** Crear un robot capaz de seguir líneas a alta velocidad utilizando sensores y actuadores de precisión.
 - **Programación:**  Desarrollar el software necesario para el control del robot, incluyendo algoritmos de seguimiento de línea, control de motores y optimización de la velocidad.
