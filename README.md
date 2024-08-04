@@ -1,3 +1,4 @@
+![Logo del Club de Robótica](https://github.com/ReuzGarces/Hermes2024/blob/main/media/Captura%20de%20pantalla%202024-08-04%20184631.png)
 # Robot Velocista - Club de Robótica FUNDACION MUSTAKIS
 **Repositorio del club velocista 2024 Creado por René Garcés**
 
@@ -10,7 +11,7 @@
 - **Programación:**  Desarrollar el software necesario para el control del robot, incluyendo algoritmos de seguimiento de línea, control de motores y optimización de la velocidad.
 
 - **Competencias:** Participar en competencias locales y nacionales de robots velocistas, representando al club de robótica.
-
+  
 ## Guía de Estilo de Código
 ### Legibilidad: Escribe código claro y bien documentado.
 ### Comentarios: Comenta tu código para explicar la lógica y los pasos importantes.
