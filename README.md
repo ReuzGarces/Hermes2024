@@ -1,5 +1,5 @@
 ![Logo del Club de Robótica](https://github.com/ReuzGarces/Hermes2024/blob/main/media/Captura%20de%20pantalla%202024-08-04%20184631.png)
-# Robot Velocista - Club de Robótica FUNDACION MUSTAKIS
+# Robot Velocista - Club de ciencia y tecnologia FUNDACION MUSTAKIS
 **Repositorio del club velocista 2024 Creado por René Garcés**
 
 ## Robot HERMES
